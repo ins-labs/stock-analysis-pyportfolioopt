@@ -1,0 +1,11 @@
+{
+  "dataset_kind": "synthetic",
+  "instruments": "SYN_A/SYN_B/SYN_C are invented labels, not stocks or EGX assets",
+  "source": "512 invented weekday rows from2022-01-03. Index i%8: independent alternating binary bits give \u00b1.005/\u00b1.010/\u00b1.020 around means.0004/.0006/.0008. No downloaded data.",
+  "as_of": "2026-11-11T07:54:00+02:00",
+  "timezone": "Africa/Cairo",
+  "return_type": "simple_fractional",
+  "return_basis": "Invented simple daily fractional returns; no adjustment/fee/tax/FX inference. Calendar is invented weekdays, not market sessions.",
+  "frequency": "daily_observations",
+  "publication_rights": "Synthetic fixture invented for public tool qualification; no private/provider input."
+}
